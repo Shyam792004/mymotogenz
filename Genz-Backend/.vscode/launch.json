@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GenzVehicleApplication<Genz-Vehicle>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.kenny.genzvehicle.GenzVehicleApplication",
+            "projectName": "Genz-Vehicle",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
